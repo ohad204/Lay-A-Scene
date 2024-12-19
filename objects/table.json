@@ -1,0 +1,9 @@
+{
+  "instance_prompt": "<asset>",
+  "class_prompt": "table",
+  "path": [
+    "table.glb"
+  ],
+  "x_size_cm": 90,
+  "view": "front, side"
+}

@@ -1,0 +1,9 @@
+{
+  "instance_prompt": "<asset>",
+  "class_prompt": "sofa",
+  "path": [
+    "sofa.glb"
+  ],
+  "x_size_cm": 180,
+  "view": "front, side"
+}
